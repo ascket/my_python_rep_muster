@@ -15,3 +15,4 @@ def sorter_puz(l):
 
 
 print(sorter_puz(lister))
+print("Verdion 02")
