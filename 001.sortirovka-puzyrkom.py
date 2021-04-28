@@ -15,4 +15,5 @@ def sorter_puz(l):
 
 
 print(sorter_puz(lister))
-print("Verdion 02")
+print("Version 03")
+print("This is my version")
